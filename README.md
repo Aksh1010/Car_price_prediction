@@ -29,6 +29,6 @@ Yes, it is a sample. We don't have official information about the data collectio
 
 3. How many cars are registered?
 
-4. Price distribution between registered and non-registered cars.
+4. Price distribution between registered and non-registered cars?
 
 5. What is the car price distribution based on Engine Value?
